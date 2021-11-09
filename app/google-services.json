@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "45258233584",
+    "project_id": "topfind-fe827",
+    "storage_bucket": "topfind-fe827.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45258233584:android:46d0fdd4e50cb531d39435",
+        "android_client_info": {
+          "package_name": "com.intech.topfind"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45258233584-1ri16n3sg19ritkk10ed0fnldsd0qfdr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3DXF0N3iMYU2hZHAaVbMjTgCj4606ywY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "45258233584-1ri16n3sg19ritkk10ed0fnldsd0qfdr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
