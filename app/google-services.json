@@ -14,6 +14,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "45258233584-9i2427hjv8dtmlkqms47qv8gkk26o8ub.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.intech.topfind",
+            "certificate_hash": "785fe5cdd935a518363e1189523ff8efca501580"
+          }
+        },
+        {
           "client_id": "45258233584-1ri16n3sg19ritkk10ed0fnldsd0qfdr.apps.googleusercontent.com",
           "client_type": 3
         }

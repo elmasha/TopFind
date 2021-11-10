@@ -14,7 +14,7 @@ public class Splash_Activity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_splash);
 
-        final Intent i = new Intent(this, RegisterActivity.class);
+        final Intent i = new Intent(this, MainActivity.class);
         Thread timer =new Thread(){
             public void run (){
                 try {
